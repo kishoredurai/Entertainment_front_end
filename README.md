@@ -1,6 +1,6 @@
 # 365 Entertainement web application
 
--- GETTING STARTED -->
+<-- GETTING STARTED -->
 ## Getting Started
 
 Basic front-end of an entertainment website as popular entertainment websites like 
@@ -16,8 +16,9 @@ This section should list any major frameworks that you built your project using.
 ### Requirements
 
 The software are packages to run the web appication
-* [Browser]
-* [Vscode] or [Notepad]
+* [Browser](https://www.google.com/intl/en_in/chrome/)
+* [Vscode](https://code.visualstudio.com/download)
+* [Notepad](https://notepad-plus-plus.org/)
 
 
 
