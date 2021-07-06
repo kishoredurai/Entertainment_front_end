@@ -1,6 +1,5 @@
 # 365 Entertainement web application
 
-<-- GETTING STARTED -->
 ## Getting Started
 
 Basic front-end of an entertainment website as popular entertainment websites like 
